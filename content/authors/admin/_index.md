@@ -21,14 +21,15 @@ organizations:
 bio: I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
 
 interests:
-- Humanities Data Science
+- Machine Learning
+- Network Analysis
 - Narrative Theory
 - Drama
 
 education:
   courses:
   - course: PhD in English and American Literature
-    institution: Washginton University in St. Louis
+    institution: Washington University in St. Louis
     year: 2019-2025
   - course: BA in Computer Science and English
     institution: Rice University
@@ -67,11 +68,7 @@ highlight_name: false
 # - Visitors
 ---
 
-I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style. Accordingly, my biggest (inter)disciplinary commitments are to machine learning, network analysis, narrative theory, and formalisms both old and new.
-
-I teach writing and literature, of course, but I’m amusingly easy to sell on more unusual teaching experiences. My pedagogical Greatest Hits include competitive mental math for elementary schoolers, commedia dell’arte for middle schoolers, a cappella for high schoolers, guitar for undergraduates, and software engineering for financial analysts.
-
-I enjoy acting and playing stringed instruments, and I even do those things publicly whenever someone is foolish kind enough to let me.
+I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
 
 I bluster on Twitter @CodyVanZandt, sling code on GitHub @Codyvanzandt, exist (at least nominally) on LinkedIn @codyvanzandt, and respond to email at cody.a.vanzandt@gmail.com.
 
