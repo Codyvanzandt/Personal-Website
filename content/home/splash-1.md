@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "website-splash.png"  # Name of image in `static/img/`.
+  image = "website-splash-50.svg"  # Name of image in `static/img/`.
 
   # Text color (true=light or false=dark).
   text_color_light = true
