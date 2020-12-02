@@ -2,7 +2,7 @@
 
 body {
   margin-top: 100px !important;
-  color: #19161C;
+  color: #35535A;
 }
 
 .navbar {
@@ -12,7 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
   letter-spacing: 0.04em;
-  color: #19161C;
+  color: #35535A;
 }
 
 /* links */
@@ -20,14 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 a:active, 
 a:focus, 
 a:hover {
-  color: #5E685B;
+  color: #875869;
 }
 
 /* nav */
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-	color: #108080;
+	color: #875869;
 }
 
 .navbar {
@@ -67,7 +67,7 @@ a.nav-link:after {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #108080;
+  background: #32AAAA;
   height: 2px;
 }
 
@@ -78,7 +78,7 @@ a.nav-link:hover:after {
 /* home page */
 
 .portrait-title h2 {
-  color: #5E685B;
+  color: #32AAAA;
 }
 
 #about .col-12.col-lg-8 {
@@ -117,7 +117,7 @@ a.nav-link:hover:after {
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
 
 pre, code {
-	color: #108080;
+	color: #32AAAA;
 	background-color: #fff;
 }
 
@@ -140,21 +140,21 @@ pre code {
 div.alert-note > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #19161C;
+  color: #35535A;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #19161C;
+  color: #35535A;
   content: "\f1e2";
 }
 
 .alert-note {
-  color: #333;
+  color: #875869;
   background-color: #fff;
-  border-top: 2px solid #19161C;
+  border-top: 2px solid #35535A;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -168,9 +168,9 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #5E685B;
-  background-color: #E4D5E1;
-  border-top: 2px solid #19161C;
+  color: #875869;
+  background-color: #F3F3F0;
+  border-top: 2px solid #35535A;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -222,7 +222,7 @@ div.universal-wrapper.pt-3 h1 {
 hr {
   border: 0;
   height: 1px;
-  background: #19161C;
+  background: #35535A;
   background-image: none;
 }
 
@@ -256,17 +256,17 @@ iframe {
 /* pagination buttons */
 
 .page-link {
-	color: #19161C;
-	background-color: #E4D5E1;
-	border: 1px solid #19161C;
+	color: #35535A;
+	background-color: #F3F3F0;
+	border: 1px solid #35535A;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #19161C;
-	border-color: #19161C;
+	background-color: #35535A;
+	border-color: #35535A;
 }
 
 .page-item:first-child .page-link {
@@ -285,9 +285,9 @@ iframe {
 }
 
 .carousel-indicators li {
-	background-color: #108080;
+	background-color: #32AAAA;
 }
 
 .section-heading p {
-	color: #19161C;
+	color: #35535A;
 }
