@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Teaching"
+title = "Talks"
 subtitle = ""
 
 # Date format
@@ -19,9 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[item]]
-  title = "Commedia dell'Arte in Performance"	
-  organization = "STEAM Academy Middle School"
-  start_date = "2020-02-15"
-  end_date = "2020-03-15"
-
+  title = "Applying to English PhD Programs"
+  organization = "Rice University English Undergradute Assocation"
+  organization_url = "https://english.rice.edu/english-undergraduate-association"
+  date_start = "2020-06-23"
+  
+[[item]]
+  title = "Better Coding Through Shakespeare"
+  organization = "JPMorgan Chase & Co."
+  date_start = "2019-02-15"
 +++
