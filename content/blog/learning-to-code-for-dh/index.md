@@ -1,6 +1,6 @@
 ---
 title: "Learning to Code for Humanities Data Science"
-summary: 'A pratical path for humanities folks feeling daunted at the prospect of learning to code.'
+summary: "A pratical path for humanities folks feeling daunted at the prospect of learning to code."
 slug: "Learning-to-Code-for-Humanities-Data-Science"
 categories: 
 - programming
