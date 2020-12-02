@@ -1,6 +1,6 @@
 ---
 title: "Better Coding Through Shakespeare"
-summary: "Software engineer theory meets Renaissance drama in a seven-part tutorial."
+summary: "Software engineer theory meets Renaissance drama in a rambunctious seven-part tutorial."
 slug: "Better-Coding-Through-Shakespeare"
 categories: 
 - programming
