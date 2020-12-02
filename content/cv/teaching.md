@@ -19,13 +19,46 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[item]]
-  title = "Applying to English PhD Programs"
-  organization = "Rice University English Undergradute Assocation"
-  organization_url = "https://english.rice.edu/english-undergraduate-association"
-  date_start = "2020-06-23"
-  
+  title = "Commedia dell'Arte in Performance"	
+  organization = "STEAM Academy Middle School"
+  start_date = "2020-02-15"
+  end_date = "2020-03-15"
+
 [[item]]
-  title = "Better Coding Through Shakespeare"
+  title = "Software Engineering with Python"
   organization = "JPMorgan Chase & Co."
-  date_start = "2019-02-15"
+  date_start = "2017-10-15"
+  end_date = "2019-02-15"
+
+[[item]]
+  title = "The Importance of Being Earnest"
+  organization = "Brown College Theatre"
+  date_start = "2016-08-15"
+  date_end = "2017-04-15"
+  description = "Director and Executive Producer"
+
+[[item]]
+  title = "Introduction to Guitar"
+  organization = "Rice University"
+  date_start = "2016-01-15"
+  date_end = "2016-05-15"
+
+[[item]]
+  title = "Advanced Mental Math"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2016-06-15"
+  date_end = "2016-07-15"
+
+[[item]]
+  title = "Short Story Writing"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2015-06-15"
+  date_end = "2015-07-15"
+
+[[item]]
+  title = "Musical Performance"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2015-06-15"
+  date_end = "2015-07-15"
+
 +++
