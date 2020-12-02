@@ -1,6 +1,6 @@
 ---
 title: "Finally Learn Python Imports"
-summary: 'Has Python's import system ever left you feeling hurt and confused? Let's remedy that!'
+summary: "Has Python's import system ever left you feeling hurt and confused? Let's remedy that."
 slug: "Finally-Learn-Python-Imports"
 categories: 
 - programming
