@@ -52,7 +52,7 @@ subtitle = ""
 [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)
 
 ## Research and Teaching Interests
-drama, narrative theory, digital humanities, humanities data science
+drama, narrative theory, humanities data science
 
 ## Education
 
@@ -75,6 +75,10 @@ JPMorgan Chase & Co.
 August 2017 - June 2019
 
 ## Presentations
+
+[**Applying to English PhD Programs**]
+Rice University
+June 23 2020
 
 [**Finally Understand Python Imports**](https://codyvanzandt.com/2020-02-15-imports/)  
 JPMorgan Chase & Co.  
@@ -122,20 +126,20 @@ Summer 2014-2016
 
 ## Technical Proficiencies
 **Software Engineering**  
-Full-stack software engineering, especially in Python  
-HTML/CSS/Javascript, static site generators
+Full-stack software engineering, especially in Python.
+HTML/CSS/Javascript, static site generators.
 
 **Data Science**  
-Exploratory and confirmatory analysis, visualization, and communication  
+Exploratory and confirmatory analysis, visualization, and communication.  
 Python, Tidyverse-R
 
 **Machine Learning**  
-Supervised and unsupervised modeling  
+Supervised and unsupervised modeling.
 scikit-learn, spaCy, gensim, caret
 
 **Network Analysis**  
-Analysis of networked data, especially of social and dramatic networks  
-Networkx, graph-tool, Gephi, d3.js
+Analysis of networked data, especially of social and dramatic networks  .
+networkx, graph-tool, Gephi, d3.js
 
 ## Languages
 **Spanish**  
