@@ -20,21 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
 
-interests:
-- Machine Learning
-- Network Analysis
-- Narrative Theory
-- Drama
-
-education:
-  courses:
-  - course: PhD in English and American Literature
-    institution: Washington University in St. Louis
-    year: 2019-2025
-  - course: BA in Computer Science and English
-    institution: Rice University
-    year: 2017
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
