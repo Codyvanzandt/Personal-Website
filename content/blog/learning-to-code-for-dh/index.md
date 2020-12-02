@@ -5,7 +5,6 @@ slug: "Learning-to-Code-for-Humanities-Data-Science"
 categories: 
 - programming
 - python
-- tutorial
 - humanities data science
 date: 2020-06-14
 ---
