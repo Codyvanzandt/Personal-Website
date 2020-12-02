@@ -2,7 +2,7 @@
 
 body {
   margin-top: 100px !important;
-  color: #35535A;
+  color: #265780;
 }
 
 .navbar {
@@ -12,7 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
   letter-spacing: 0.04em;
-  color: #35535A;
+  color: #265780;
 }
 
 /* links */
@@ -20,14 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 a:active, 
 a:focus, 
 a:hover {
-  color: #4a2432;
+  color: #969BAC;
 }
 
 /* nav */
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-	color: #4a2432;
+	color: #969BAC;
 }
 
 .navbar {
@@ -140,21 +140,21 @@ pre code {
 div.alert-note > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #35535A;
+  color: #265780;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #35535A;
+  color: #265780;
   content: "\f1e2";
 }
 
 .alert-note {
-  color: #875869;
+  color: #32AAAA;
   background-color: #fff;
-  border-top: 2px solid #35535A;
+  border-top: 2px solid #265780;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -168,9 +168,9 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #875869;
-  background-color: #F3F3F0;
-  border-top: 2px solid #35535A;
+  color: #265780;
+  background-color: #EDEFF1;
+  border-top: 2px solid #265780;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -222,7 +222,7 @@ div.universal-wrapper.pt-3 h1 {
 hr {
   border: 0;
   height: 1px;
-  background: #35535A;
+  background: #265780;
   background-image: none;
 }
 
@@ -256,17 +256,17 @@ iframe {
 /* pagination buttons */
 
 .page-link {
-	color: #35535A;
-	background-color: #F3F3F0;
-	border: 1px solid #35535A;
+	color: #265780;
+	background-color: #EDEFF1;
+	border: 1px solid #265780;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #35535A;
-	border-color: #35535A;
+	background-color: #969BAC;
+	border-color: #969BAC;
 }
 
 .page-item:first-child .page-link {
@@ -289,5 +289,5 @@ iframe {
 }
 
 .section-heading p {
-	color: #35535A;
+	color: #265780;
 }
