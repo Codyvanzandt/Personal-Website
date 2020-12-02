@@ -20,6 +20,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = """PhD Student in English Literature
+  
   """
   company = "Washington University in St. Louis"
   company_url = "https://english.wustl.edu/"
@@ -30,6 +31,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = """Bachelor of Arts in English and Computer Science
+  
   """
   company = "Rice University"
   company_url = "https://rice.edu/"
