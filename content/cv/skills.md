@@ -1,6 +1,8 @@
 +++
-widget: featurette
-headless: true  # This file represents a page section.
+widget = "featurette"
+headless =  true  # This file represents a page section.
+active = true
+weight = 70
 
 # ... Put Your Section Options Here (title etc.) ...
 
