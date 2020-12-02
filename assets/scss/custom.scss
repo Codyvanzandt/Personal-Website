@@ -2,7 +2,7 @@
 
 body {
   margin-top: 100px !important;
-  color: #172A3A;
+  color: #19161C;
 }
 
 .navbar {
@@ -12,7 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
   letter-spacing: 0.04em;
-  color: #172A3A;
+  color: #19161C;
 }
 
 /* links */
@@ -20,14 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 a:active, 
 a:focus, 
 a:hover {
-  color: #004346;
+  color: #5E685B;
 }
 
 /* nav */
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-	color: #06805E;
+	color: #108080;
 }
 
 .navbar {
@@ -67,7 +67,7 @@ a.nav-link:after {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #06805E;
+  background: #108080;
   height: 2px;
 }
 
@@ -117,7 +117,7 @@ a.nav-link:hover:after {
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
 
 pre, code {
-	color: #508991;
+	color: #108080;
 	background-color: #fff;
 }
 
@@ -140,21 +140,21 @@ pre code {
 div.alert-note > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #004346;
+  color: #19161C;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #004346;
+  color: #19161C;
   content: "\f1e2";
 }
 
 .alert-note {
   color: #333;
   background-color: #fff;
-  border-top: 2px solid #004346;
+  border-top: 2px solid #19161C;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -168,9 +168,9 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #d03b39;
-  background-color: #fdf4f4;
-  border-top: 2px solid #004346;
+  color: #5E685B;
+  background-color: #E4D5E1;
+  border-top: 2px solid #19161C;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -222,7 +222,7 @@ div.universal-wrapper.pt-3 h1 {
 hr {
   border: 0;
   height: 1px;
-  background: #004346;
+  background: #19161C;
   background-image: none;
 }
 
@@ -256,17 +256,17 @@ iframe {
 /* pagination buttons */
 
 .page-link {
-	color: #004346;
-	background-color: #F0F7FA;
-	border: 1px solid #004346;
+	color: #19161C;
+	background-color: #E4D5E1;
+	border: 1px solid #19161C;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #004346;
-	border-color: #004346;
+	background-color: #19161C;
+	border-color: #19161C;
 }
 
 .page-item:first-child .page-link {
@@ -285,9 +285,9 @@ iframe {
 }
 
 .carousel-indicators li {
-	background-color: #06805E80;
+	background-color: #108080;
 }
 
 .section-heading p {
-	color: #004346;
+	color: #19161C;
 }
