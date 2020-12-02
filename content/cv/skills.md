@@ -1,22 +1,29 @@
 +++
-widget = "featurette"
-headless =  true  # This file represents a page section.
-active = true
-weight = 70
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+title = "Skills"
+subtitle = ""
 
 # Showcase personal skills or business features.
-# Add/remove as many `feature` blocks below as you like.
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
+# 
+# Add/remove as many `[[feature]]` blocks below as you like.
+# 
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Machine learning, data science, natural language processing, network analysis, software engineering"
+  description = ""
+  
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Python, R, Javascript, SQL, "
+  description = ""  
 
 +++
