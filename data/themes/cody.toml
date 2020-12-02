@@ -5,15 +5,15 @@ name = "cody"
 light = true
 
 # Primary
-primary = "#32AAAA"
+primary = "#12D3D3"
 
 # Menu
-menu_primary = "#EDEFF1"
-menu_text = "#32AAAA"
-menu_text_active = "#969BAC"
-menu_title = "#32AAAA"
+menu_primary = "#F4F3EE"
+menu_text = "#12D3D3"
+menu_text_active = "#779F74"
+menu_title = "#12D3D3"
 
 # Backgrounds
-background = "#EDEFF1"
-home_section_odd = "#EDEFF1"
-home_section_even = "#EDEFF1"
+background = "#F4F3EE"
+home_section_odd = "#F4F3EE"
+home_section_even = "#F4F3EE"
