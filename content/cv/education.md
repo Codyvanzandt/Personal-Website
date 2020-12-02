@@ -17,8 +17,10 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "PhD Student in English and American Literature"
+  title = """PhD Student in English Literature
+  """
   company = "Washington University in St. Louis"
   company_url = "https://english.wustl.edu/"
   location = "St. Louis, Missouri"
@@ -27,7 +29,8 @@ date_format = "January 2006"
   description = "Drama, narrative theory, computational approaches to style, genre, and plot"
   
 [[experience]]
-  title = "Bachelor of Arts in English and Computer Science"
+  title = """Bachelor of Arts in English and Computer Science
+  """
   company = "Rice University"
   company_url = "https://rice.edu/"
   location = "Houston, Texas"
