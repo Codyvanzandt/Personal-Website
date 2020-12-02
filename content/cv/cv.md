@@ -47,14 +47,14 @@ subtitle = ""
  css_class = ""
 +++
 
-# Cody VanZandt
+### Cody VanZandt
 
 [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)
 
-## Research and Teaching Interests
+#### Research and Teaching Interests
 drama, narrative theory, humanities data science
 
-## Education
+### Education
 
 **Ph.D. Student in English**  
 Washington University in St. Louis  
@@ -64,7 +64,7 @@ August 2019 - present
 Rice University  
 May 2017
 
-## Employment
+### Employment
 
 **Humanities Digital Workshop Summer Fellow**  
 Washington University in St. Louis  
@@ -74,7 +74,7 @@ Summer 2020
 JPMorgan Chase & Co.  
 August 2017 - June 2019
 
-## Presentations
+### Presentations
 
 **Applying to English PhD Programs**
 Rice University
@@ -97,7 +97,7 @@ Rice Undergraduate Research Symposium
 Rice University  
 Spring 2017
 
-## Teaching
+### Teaching
 
 **Commedia dell'Arte in Performance**  
 STEAM Academy Middle School  
@@ -124,7 +124,7 @@ Summer 2016
 Lamar University Texas Governor's School  
 Summer 2014-2016
 
-## Technical Proficiencies
+### Technical Proficiencies
 **Software Engineering**  
 Full-stack software engineering, especially in Python.
 HTML/CSS/Javascript, static site generators.
@@ -141,6 +141,6 @@ scikit-learn, spaCy, gensim, caret
 Analysis of networked data, especially of social and dramatic networks  .
 networkx, graph-tool, Gephi, d3.js
 
-## Languages
+### Languages
 **Spanish**  
 Reading knoweldge, conversational
