@@ -51,7 +51,7 @@ subtitle = ""
 
 [cody.a.vanzandt@gmail.com](mailto:cody.a.vanzandt@gmail.com)
 
-#### Research and Teaching Interests
+### Research and Teaching Interests
 drama, narrative theory, humanities data science
 
 ### Education
