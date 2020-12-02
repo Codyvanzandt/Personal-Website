@@ -1,3 +1,4 @@
++++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
 headless = true  # This file represents a page section.
@@ -23,7 +24,7 @@ date_format = "January 2006"
   location = "St. Louis, Missouri"
   date_start = "2019-08-15"
   date_end = ""
-  description = "Drama, narrative theory, computational ap"
+  description = "Drama, narrative theory, computational approaches to style, genre, and plot"
   
 [[experience]]
   title = "Bachelor of Arts in English and Computer Science"
@@ -33,6 +34,5 @@ date_format = "January 2006"
   date_start = "2013-08-15"
   date_end = "2017-05-15"
   description = "Drama; theater in performance; software engineering"
-
 
 +++
