@@ -24,6 +24,6 @@ date_format = "January 2006"
   location = "Houston, Texas"
   date_start = "2017-08-15"
   date_end = "2019-08-15"
-  description = "Engineer for JPMorgan's energy trading desk"
+  description = "Engineer for the investment bank's energy trading desk"
 
 +++
