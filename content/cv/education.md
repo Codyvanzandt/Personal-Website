@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "PhD Student in English and American Literature"
   date_start = "2019-08-15"
   date_end = ""
-  description = "Computational approaches to style, genre, and plot"
+  description = "Drama; narrative theory; computational approaches to style, genre, and plot"
   
 [[item]]
   organization = "Rice University"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   title = "Bachelor of Arts in English and Computer Science"
   date_start = "2013-08-15"
   date_end = "2017-05-15"
-  description = "Drama, theater in performance, software engineering"
+  description = "Drama; theater in performance; software engineering"
 
 
 +++
