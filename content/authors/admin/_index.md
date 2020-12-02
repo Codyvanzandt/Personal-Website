@@ -68,8 +68,10 @@ highlight_name: false
 # - Visitors
 ---
 
-I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
+I’m an English PhD Student at [Washington University in St. Louis](https://english.wustl.edu/) where I use computational methods to study genre, plot, and style. In a not-too-distant previous life, I was a software engineer for JPMorgan Chase's investment bank.
 
-I bluster on Twitter @CodyVanZandt, sling code on GitHub @Codyvanzandt, exist (at least nominally) on LinkedIn @codyvanzandt, and respond to email at cody.a.vanzandt@gmail.com.
+I teach data science and literature, but my pedagogicaly Greatest Hits also include competitive mental math for elementary schoolers, commedia dell’arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for financial analysts. 
 
-If you’d like to chat, feel free to send an email or a Twitter DM.
+I bluster on [Twitter](https://twitter.com/CodyVanZandt), sling code on [GitHub](https://github.com/Codyvanzandt), exist (nominally) on [LinkedIn](https://www.linkedin.com/in/codyvanzandt), and respond to email at cody.a.vanzandt@gmail.com
+
+If you'd like to say hello, feel free to drop me a line via email or Twitter.
