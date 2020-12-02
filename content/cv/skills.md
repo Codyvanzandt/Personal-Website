@@ -15,15 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "chart-bar"
+  icon = "calculator"
   icon_pack = "fas"
   name = "Machine learning, data science, natural language processing, network analysis, software engineering"
   description = ""
   
 [[feature]]
-  icon = "tools"
+  icon = "hammer"
   icon_pack = "fas"
-  name = "Python, R, Javascript, SQL, "
-  description = ""  
+  name = "Python, R, Javascript, SQL"
+  description = "" 
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Spanish (reading knowledge)"
+  description = ""
 
 +++
