@@ -1,3 +1,15 @@
+---
+title: "The Sorcerer's Code"
+slug: "The-Sorcercers-Code"
+categories: 
+- programming
+- python
+- tutorial
+date: 2018--8-31
+subtitle: "A Hands-On Introduction to Python's Magic Methods"
+---
+
+
 # We're Going to Need a Little Magic
 
 So there you are - mind racing, fingers blurring, the most beautiful Python in all the world coming to life on your screen. You're in the zone!
