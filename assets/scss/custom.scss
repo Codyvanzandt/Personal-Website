@@ -2,7 +2,7 @@
 
 body {
   margin-top: 100px !important;
-  color: #345867;
+  color: #1F181F;
 }
 
 .navbar {
@@ -12,7 +12,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
   letter-spacing: 0.04em;
-  color: #345867;
+  color: #1F181F;
 }
 
 /* links */
@@ -20,14 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 a:active, 
 a:focus, 
 a:hover {
-  color: #779F74;
+  color: #59BCC9;
 }
 
 /* nav */
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link:focus {
-	color: #779F74;
+	color: #59BCC9;
 }
 
 .navbar {
@@ -67,7 +67,7 @@ a.nav-link:after {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #12D3D3;
+  background: #006565;
   height: 2px;
 }
 
@@ -78,7 +78,7 @@ a.nav-link:hover:after {
 /* home page */
 
 .portrait-title h2 {
-  color: #12D3D3;
+  color: #006565;
 }
 
 #about .col-12.col-lg-8 {
@@ -117,7 +117,7 @@ a.nav-link:hover:after {
 /* https://github.com/rstudio/blogdown/blob/master/docs/02-hugo.Rmd */
 
 pre, code {
-	color: #12D3D3;
+	color: #006565;
 	background-color: #fff;
 }
 
@@ -140,21 +140,21 @@ pre code {
 div.alert-note > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #345867;
+  color: #1F181F;
   content: "\f0a4";
 }
 
 div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #345867;
+  color: #1F181F;
   content: "\f1e2";
 }
 
 .alert-note {
-  color: #12D3D3;
+  color: #1F181F;
   background-color: #fff;
-  border-top: 2px solid #345867;
+  border-top: 2px solid #1F181F;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -168,9 +168,9 @@ div.alert > div {
 
 
 div.alert.alert-warning {
-  color: #345867;
-  background-color: #F4F3EE;
-  border-top: 2px solid #345867;
+  color: #1F181F;
+  background-color: #EDD9E5;
+  border-top: 2px solid #1F181F;
   border-radius: 0px; /*undo rounded corners*/
   border-right-style: none;
   border-bottom-style: none;
@@ -222,7 +222,7 @@ div.universal-wrapper.pt-3 h1 {
 hr {
   border: 0;
   height: 1px;
-  background: #345867;
+  background: #1F181F;
   background-image: none;
 }
 
@@ -256,17 +256,17 @@ iframe {
 /* pagination buttons */
 
 .page-link {
-	color: #345867;
-	background-color: #EDEFF1;
-	border: 1px solid #345867;
+	color: #1F181F;
+	background-color: #EDD9E5;
+	border: 1px solid #1F181F;
   border-radius: 0px; /*undo rounded corners*/
 
 }
 
 .page-link:hover {
 	color: #fff;
-	background-color: #779F74;
-	border-color: #779F74;
+	background-color: #59BCC9;
+	border-color: #59BCC9;
 }
 
 .page-item:first-child .page-link {
@@ -285,9 +285,9 @@ iframe {
 }
 
 .carousel-indicators li {
-	background-color: #12D3D3;
+	background-color: #006565;
 }
 
 .section-heading p {
-	color: #345867;
+	color: #1F181F;
 }
