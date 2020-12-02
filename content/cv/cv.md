@@ -76,19 +76,19 @@ August 2017 - June 2019
 
 ## Presentations
 
-[**Applying to English PhD Programs**]
+**Applying to English PhD Programs**
 Rice University
 June 23 2020
 
-[**Finally Understand Python Imports**](https://codyvanzandt.com/2020-02-15-imports/)  
+**Finally Understand Python Imports**
 JPMorgan Chase & Co.  
 February 2019
 
-[**Better Coding Through Shakespeare**](https://codyvanzandt.com/2020-06-10-bcts/)   
+**Better Coding Through Shakespeare**
 JPMorgan Chase & Co.  
 August 2018
 
-[**The Sorcerer's Code**](https://codyvanzandt.com/2018-08-31-sorcerers_code/)  
+**The Sorcerer's Code**  
 JPMorgan Chase & Co.  
 July 2018
 
