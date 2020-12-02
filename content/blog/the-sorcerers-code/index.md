@@ -1,6 +1,6 @@
 ---
 title: "The Sorcerer's Code"
-summary: 'A hands-on introduction to Python's magic methods.'
+summary: "A hands-on introduction to Python's magic methods."
 slug: "The-Sorcercers-Code"
 categories: 
 - programming
