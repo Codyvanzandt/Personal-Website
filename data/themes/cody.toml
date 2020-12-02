@@ -1,0 +1,19 @@
+# Theme metadata
+name = "cody"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#83A3B0"
+
+# Menu
+menu_primary = "#CFECFF"
+menu_text = "#515B65"
+menu_text_active = "#83A3B0"
+menu_title = "#515B65"
+
+# Backgrounds
+background = "#CFECFF"
+home_section_odd = "#CFECFF"
+home_section_even = "#CFECFF"
