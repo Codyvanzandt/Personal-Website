@@ -19,9 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = """PhD Student in English Literature
-  
-  """
+  title = "PhD Student in English Literature"
   company = "Washington University in St. Louis"
   company_url = "https://english.wustl.edu/"
   location = "St. Louis, Missouri"
@@ -30,15 +28,11 @@ date_format = "January 2006"
   description = "Drama, narrative theory, computational approaches to style, genre, and plot"
   
 [[experience]]
-  title = """Bachelor of Arts in English and Computer Science
-  
-  """
+  title = "BA in English and Computer Science"
   company = "Rice University"
   company_url = "https://rice.edu/"
   location = "Houston, Texas"
   date_start = "2013-08-15"
   date_end = "2017-05-15"
   description = "Drama; theater in performance; software engineering"
-
-
 +++
