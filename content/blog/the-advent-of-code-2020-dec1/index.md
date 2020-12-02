@@ -5,7 +5,6 @@ slug: "Advent-of-Code-2020-The-First-Puzzle"
 categories: 
 - programming
 - python
-- tutorial
 date: 2020-12-01
 ---
 
