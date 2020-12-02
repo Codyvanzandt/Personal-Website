@@ -53,4 +53,5 @@ date_format = "Jan 2006"
   title = "Musical Performance"
   organization = "Lamar University's Texas Governor's School"
   date_start = "Summers 2014-2016"
+  
 +++
