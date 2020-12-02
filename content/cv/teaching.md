@@ -21,5 +21,44 @@ date_format = "Jan 2006"
 [[item]]
   title = "Commedia dell'Arte in Performance"
   organization = "STEAM Academy Middle School"
-  date_start = "Spring 2020"
+  start_date = "2020-02-15"
+  end_date = "2020-03-15"
+  
+[[item]]
+  title = "Software Engineering with Python"
+  organization = "JPMorgan Chase & Co."
+  date_start = "2017-10-15"
+  end_date = "2019-02-15"
+  
+[[item]]
+  title = "The Importance of Being Earnest"
+  organization = "Brown College Theatre"
+  date_start = "2016-08-15"
+  date_end = "2017-04-15"
+  description = "Director and Executive Producer"
+  
+[[item]]
+  title = "Introduction to Guitar"
+  organization = "Rice University"
+  date_start = "2016-01-15"
+  date_end = "2016-05-15"
+  
+[[item]]
+  title = "Advanced Mental Math"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2016-06-15"
+  date_end = "2016-07-15"
+  
+[[item]]
+  title = "Short Story Writing"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2015-06-15"
+  date_end = "2015-07-15"
+  
+[[item]]
+  title = "Musical Performance"
+  organization = "Lamar University's Texas Governor's School"
+  date_start = "2015-06-15"
+  date_end = "2015-07-15"
+  
 +++
