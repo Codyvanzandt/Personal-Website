@@ -10,15 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: English PhD Student
+role: ""
 
 # Organizations/Affiliations
 organizations:
-- name: Washington University in St. Louis
-  url: "https://english.wustl.edu/"
+- name: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a PhD student in English and American Literature at Washington University in St. Louis where I use computational methods to study genre, plot, and style.
+bio: ""
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -55,8 +54,6 @@ highlight_name: false
 # - Researchers
 # - Visitors
 ---
-
-I’m an English PhD Student at [Washington University in St. Louis](https://english.wustl.edu/) where I use computational methods to study genre, plot, and style. In a not-too-distant previous life, I was a software engineer for JPMorgan Chase's investment bank.
 
 I teach data science and literature, but my pedagogical Greatest Hits also include competitive mental math for elementary schoolers, commedia dell’arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for financial analysts. 
 
