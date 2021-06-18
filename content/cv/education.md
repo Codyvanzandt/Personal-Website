@@ -24,8 +24,8 @@ date_format = "January 2006"
   company_url = "https://english.wustl.edu/"
   location = "St. Louis, Missouri"
   date_start = "2019-08-15"
-  date_end = ""
-  description = "Drama, narrative theory, computational approaches to style, genre, and plot"
+  date_end = "2021-05-15"
+  description = "Computational approaches to style, genre, and plot"
   
 [[experience]]
   title = "BA in English and Computer Science"
