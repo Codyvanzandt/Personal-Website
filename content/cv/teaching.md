@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   organization = "Brown College Theatre"
   date_start = "2016-08-15"
   date_end = "2017-04-15"
-  description = "Director and Executive Producer"
+  description = "Director"
 
 [[item]]
   title = "Introduction to Guitar"
