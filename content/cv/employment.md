@@ -18,6 +18,13 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Director of Academic Advising"
+  company = "Rice University"
+  company_url = "https://oaa.rice.edu/"
+  location = "Houston, Texas"
+  date_start = "2021-07-05"
+
+[[experience]]
   title = "Software Engineer"
   company = "JPMorgan Chase & Co."
   company_url = "https://www.jpmorganchase.com/"
