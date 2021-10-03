@@ -14,8 +14,7 @@ role: ""
 
 # Organizations/Affiliations
 organizations:
-- name: Rice University's Office of Academic Advising
-  url: "https://oaa.rice.edu/"
+- name: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "I'm an Assistant Director of Academic Advising at Rice University where I spend the bulk of my time meeting with students, managing our peer advising program, and crunching numbers."
