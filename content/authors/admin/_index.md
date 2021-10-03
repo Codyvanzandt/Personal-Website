@@ -56,7 +56,9 @@ highlight_name: false
 # - Visitors
 ---
 
-I'm now an Assistant Director of Academic Advising at Rice University where I advise students, crunch numbers, and broadly speaking, help keep the many intricate gears of our colossal advising machine in proper working order. In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/), and I maintain an ~~obsession with~~ *interest in* both disciplines. My Research Buzzwords are [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism). Currently, I'm working on a computational investigation of American serial television's most plot-disruptive episode types: bottle episodes, recaps, flashbacks, and the like. 
+I'm now an Assistant Director of Academic Advising at Rice University where I advise students, crunch numbers, and broadly speaking, help keep the many intricate gears of our colossal advising machine in proper working order.
+
+In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/), and I maintain an ~~obsession with~~ *interest in* both disciplines. My Research Buzzwords are [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism). Currently, I'm working on a computational investigation of American serial television's most plot-disruptive episode types: bottle episodes, recaps, flashbacks, and the like. 
 
 I teach data science and literature, but my pedagogical Greatest Hits also include mental math for elementary schoolers, commedia dell’arte for middle schoole *a cappella* for high schoolers, guitar for undergraduates, and software engineering for career-switchers. 
 
