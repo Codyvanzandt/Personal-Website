@@ -1,5 +1,6 @@
 ---
-title: "The Octoberest Books: a Cultural Analytics Bottle Project"
+title: "The Octoberest Books"
+summary: "Which fantasy fiction books are the Octoberest? The spookiest? Armed with 3.4 million Goodreads reviews, I try and hack my way to answer!"
 slug: "The-Octoberest-books"
 categories: 
 - cultural-analytics
