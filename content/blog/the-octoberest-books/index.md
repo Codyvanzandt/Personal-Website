@@ -33,7 +33,7 @@ If this was a serious experiment, I might've have done something different, some
 But this isn't a serious experiment. I'm hacking my way to a spooky book list, and if I've got to bury ~~tens of thousands~~ a few reviews to get there, well, I've made my peace with that.
 
 After committing these high crimes against experimental design, all that was left was to run the code and cross my fingers that the results would be interesting -- a classic 
-posture of the computational humanities! And I am excessively proud to report that the result speak -- or really, *shriek* -- for themselves. Below, I've curated a selection of some of the most Octoberest books, complete below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
+posture of the computational humanities! And I am excessively proud to report that the result speak -- or really, *shriek* -- for themselves. Below, I've curated a selection of some of the most Octoberest books, complete below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 (along with the accompanying code) on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
 
 ## A Selection of the Most Octoberest Books
 
