@@ -24,3 +24,7 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+    
+[[redirects]]
+  from = "/DinnerDay"
+  to = "/https://rural-case-b3a.notion.site/DinnerDay-You-re-Invited-97c32e6a434c429a995831f8478b5055"
