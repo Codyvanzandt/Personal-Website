@@ -21,13 +21,15 @@ date_format = "January 2006"
 [[experience]]
   title = "Data Analyst"
   company = "Rice University"
+  description = "Office of the Vice Provost of Academic Affairs"
   company_url = "https://vpaa.rice.edu"
   location = "Houston, Texas"
   date_start = "2023-08-28"
 
 [[experience]]
-  title = "Assistant Director of Academic Advising"
+  title = "Assistant Director"
   company = "Rice University"
+  description = "Office of Academic Advising"
   company_url = "https://oaa.rice.edu/"
   location = "Houston, Texas"
   date_start = "2021-07-05"
@@ -36,10 +38,10 @@ date_format = "January 2006"
 [[experience]]
   title = "Software Engineer"
   company = "JPMorgan Chase & Co."
+  description = "Engineer for the investment bank's energy trading desk"
   company_url = "https://www.jpmorganchase.com/"
   location = "Houston, Texas"
   date_start = "2017-08-15"
   date_end = "2019-08-15"
-  description = "Engineer for the investment bank's energy trading desk"
-
+  
 +++
