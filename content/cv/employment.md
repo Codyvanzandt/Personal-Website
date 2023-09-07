@@ -18,11 +18,20 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Analyst, Office of the Vice Provost for Academic Affairs"
+  company = "Rice University"
+  company_url = "https://oaa.rice.edu/"
+  location = "Houston, Texas"
+  date_start = "2023-08-28"
+  date_end = "Present"
+
+[[experience]]
   title = "Assistant Director of Academic Advising"
   company = "Rice University"
   company_url = "https://oaa.rice.edu/"
   location = "Houston, Texas"
   date_start = "2021-07-05"
+  date_end = "2023-08-28"
 
 [[experience]]
   title = "Software Engineer"
