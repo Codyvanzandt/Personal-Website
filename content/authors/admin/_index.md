@@ -55,12 +55,12 @@ highlight_name: false
 # - Visitors
 ---
 
-I work at [Rice University](https://rice.edu) as an Assistant Director of [Academic Advising](https://oaa.rice.edu) where I meet with students, crunch numbers, and broadly speaking, help keep the many intricate gears of our advising machine in proper working order.
+I work at [Rice University](https://rice.edu) as a data analyst for the [Office of the Vice Provost for Academic Affairs](https://vpaa.rice.edu/). Previously, I was an Assistant Director of [Academic Advising](https://oaa.rice.edu) at Rice where I meet with students, crunched numbers, and generally kept the many intricate gears of Rice's undergraduate advising machine in proper working order.
 
 In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/). I still maintain an ~~obsession with~~ <ins>interest in</ins> both disciplines, and my research buzzwords include [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism). I'm currently working on a computational investigation of American serial television's bottle episodes, recaps, flashbacks, and other plot-arc departures.
 
-I teach data science and literature, but my pedagogical Greatest Hits also include mental math for elementary schoolers, commedia dell’arte for middle schoole *a cappella* for high schoolers, guitar for undergraduates, and software engineering for career-switchers. 
+I enjoy teaching, and my pedagogical Greatest Hits include mental math for elementary schoolers, commedia dell’arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for career-switchers. 
 
 I bluster on [Twitter](https://twitter.com/CodyVanZandt), sling code on [GitHub](https://github.com/Codyvanzandt), exist (nominally) on [LinkedIn](https://www.linkedin.com/in/codyvanzandt), and respond to email at cody.a.vanzandt@gmail.com
 
-If you'd like to say hello, feel free to drop me a line via email or Twitter.
+If you'd like to say hello, feel free to drop me a line via email.
