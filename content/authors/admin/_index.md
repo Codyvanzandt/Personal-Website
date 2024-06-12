@@ -55,9 +55,11 @@ highlight_name: false
 # - Visitors
 ---
 
-I work at [Rice University](https://rice.edu) as a data analyst for the [Office of the Vice Provost for Academic Affairs](https://vpaa.rice.edu/). Previously, I was an Assistant Director of [Academic Advising](https://oaa.rice.edu) at Rice where I meet with students, crunched numbers, and generally kept the many intricate gears of Rice's undergraduate advising machine in proper working order.
+I work at [Rice University](https://rice.edu) as a data scientist for the [Office of the Vice Provost for Academic Affairs](https://vpaa.rice.edu/).
 
-In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/). I still maintain an ~~obsession with~~ <ins>interest in</ins> both disciplines, and my research buzzwords include [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism). I'm currently working on a computational investigation of American serial television's bottle episodes, recaps, flashbacks, and other plot-arc departures.
+Previously, I was an Assistant Director of [Academic Advising](https://oaa.rice.edu) at Rice where I meet with students, crunched numbers, and generally kept the gears of Rice's undergraduate advising machine in proper working order.
+
+In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/). I still maintain an interest in computational literary studies, and my research buzzwords include [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism).
 
 I enjoy teaching, and my pedagogical Greatest Hits include mental math for elementary schoolers, commedia dell’arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for career-switchers. 
 
