@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Data Analyst"
+  title = "Data Scientist"
   company = "Rice University"
   description = "Office of the Vice Provost of Academic Affairs"
   company_url = "https://vpaa.rice.edu"
