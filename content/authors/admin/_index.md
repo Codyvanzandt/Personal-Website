@@ -33,9 +33,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/codyvanzandt
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/codyvanzandt
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,14 +52,15 @@ highlight_name: false
 # - Visitors
 ---
 
-I work at [Rice University](https://rice.edu) as a data scientist for the [Office of the Vice Provost for Academic Affairs](https://vpaa.rice.edu/).
+I work as a data scientist in the Provost's organization at [Rice University](https://rice.edu), where I measure, model, and otherwise muck about with data in hopes of improving academic life for our faculty. Not by coincidence, I'm also plodding part-time through a master's in statistics from Rice, which will be finished before the heat death of the university. Probably.
 
-Previously, I was an Assistant Director of [Academic Advising](https://oaa.rice.edu) at Rice where I meet with students, crunched numbers, and generally kept the gears of Rice's undergraduate advising machine in proper working order.
+Occupationally nomadic, I've been an academic advisor, grad student in English, and software engineer on an energy trading desk. Research-wise, my buzzwords are [Computational Literary Studies](https://jcls.io/), [Cultural Analytics](https://culturalanalytics.org/), or whatever you might call it when folks use quantitative methods to study literature. For a short and highly readable example of scholarship I enjoy, check out [this blog post](https://tedunderwood.com/2017/05/27/finding-the-great-divide/) on the apparent separation between high-brow and popular fiction. 
 
-In older times, I was a software engineer at [JPMorgan Chase](https://www.jpmorganchase.com/), then an English PhD student at [WashU](https://wustl.edu/). I still maintain an interest in computational literary studies, and my research buzzwords include [Cultural Analytics](https://culturalanalytics.org/), [Narratology](https://projectnarrative.osu.edu/about/what-is-narrative-theory), and [Formalism](https://www.newworldencyclopedia.org/entry/formalism).
+Outside the worlds of data, I enjoy designing escape-room-style puzzle games. Here are some my designs:
 
-I enjoy teaching, and my pedagogical Greatest Hits include mental math for elementary schoolers, commedia dell’arte for middle schoolers, *a cappella* for high schoolers, guitar for undergraduates, and software engineering for career-switchers. 
+* _Sandcrab Paradise_ - a tropical island reality TV show devolves into a horror/survival game when the boat never comes back
+* _Peering Up_ - a farcical, regenecy-era roleplaying romp where larger-than-life townsfolks vie to claim a vacant dukedom 
+* _Our Man In New York_ - a cryptography-heavy race against time where students of King's College unravel an existential threat to the American Revolution, based on the real-life [Culper Spy Ring](https://en.wikipedia.org/wiki/Culper_Ring)
+*  _The Trials_ - a game of social manipulation and alliance-forging that reimagines the Salem Witch Trials as an elaborate distraction from deeper, darker political machinations
 
-I bluster on [Twitter](https://twitter.com/CodyVanZandt), sling code on [GitHub](https://github.com/Codyvanzandt), exist (nominally) on [LinkedIn](https://www.linkedin.com/in/codyvanzandt), and respond to email at cody.a.vanzandt@gmail.com
-
-If you'd like to say hello, feel free to drop me a line via email.
+If you'd like to say hello, feel free to drop me a line at cody.a.vanzandt@gmail.com. 
