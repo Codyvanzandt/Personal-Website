@@ -52,15 +52,10 @@ highlight_name: false
 # - Visitors
 ---
 
-I work as a data scientist in the Provost's organization at [Rice University](https://rice.edu), where I measure, model, and otherwise muck about with data in hopes of improving academic life for our faculty. Not by coincidence, I'm also plodding part-time through a master's in statistics from Rice, which will be finished before the heat death of the university. Probably.
+I work as a data scientist in the Provost's organization at [Rice University](https://rice.edu), where I measure, model, and otherwise muck about with data in hopes of improving academic life for our faculty. Not by coincidence, I'm also working on master's in statistics from Rice.
 
 Occupationally nomadic, I've been an academic advisor, grad student in English, and software engineer on an energy trading desk. Research-wise, my buzzwords are [Computational Literary Studies](https://jcls.io/), [Cultural Analytics](https://culturalanalytics.org/), or whatever you might call it when folks use quantitative methods to study literature. For a short and highly readable example of scholarship I enjoy, check out [this blog post](https://tedunderwood.com/2017/05/27/finding-the-great-divide/) on the apparent separation between high-brow and popular fiction. 
 
-Outside the worlds of data, I enjoy designing escape-room-style puzzle games. Here are some my designs:
-
-* _Sandcrab Paradise_ - a tropical island reality TV show devolves into a horror/survival game when the boat never comes back
-* _Peering Up_ - a farcical, regenecy-era roleplaying romp where larger-than-life townsfolks vie to claim a vacant dukedom 
-* _Our Man In New York_ - a cryptography-heavy race against time where students of King's College unravel an existential threat to the American Revolution, based on the real-life [Culper Spy Ring](https://en.wikipedia.org/wiki/Culper_Ring)
-*  _The Trials_ - a game of social manipulation and alliance-forging that reimagines the Salem Witch Trials as an elaborate distraction from deeper, darker political machinations
+Outside the world of data, I enjoy singing sea shanties, reading fantasy fiction, and designing escape-room-style puzzle games.
 
 If you'd like to say hello, feel free to drop me a line at cody.a.vanzandt@gmail.com. 
