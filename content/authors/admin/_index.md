@@ -27,9 +27,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:cody.a.vanzandt@gmail.com"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CodyVanZandt
 - icon: github
   icon_pack: fab
   link: https://github.com/codyvanzandt
